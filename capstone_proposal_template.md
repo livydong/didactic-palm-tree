@@ -1,14 +1,14 @@
-# Machine Learning Engineer Nanodegree
-## Capstone Proposal
-Joe Udacity  
-December 31st, 2050
+# 机器学习工程师纳米学位
+## 技术考核开题报告
+董文钊  
+2018年12月20日
 
-## Proposal
-_(approx. 2-3 pages)_
+## 开题报告
 
-### Domain Background
+### 项目背景
 _(approx. 1-2 paragraphs)_
-
+从表演到搜救，从电影拍摄到快件投递，四轴无人飞行器逐步走入日常生活，广泛应用于各种专业领域。
+大多数四轴飞行器有四个提供推力的发动机，且重心在的推力点的中央以增强稳定性。手动操作每个发动机的推力繁琐而困难，为了简化操作，一般用俯仰/偏航/翻滚控件
 In this section, provide brief details on the background information of the domain from which the project is proposed. Historical information relevant to the project should be included. It should be clear how or why a problem in the domain can or should be solved. Related academic research should be appropriately cited in this section, including why that research is relevant. Additionally, a discussion of your personal motivation for investigating a particular problem in the domain is encouraged but not required.
 
 ### Problem Statement
