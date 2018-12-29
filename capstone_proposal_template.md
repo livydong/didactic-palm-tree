@@ -7,9 +7,10 @@
 
 ### 项目背景
 _(approx. 1-2 paragraphs)_
-从表演到搜救，从电影拍摄到快件投递，四轴无人飞行器逐步走入日常生活，广泛应用于各种专业领域。
-大多数四轴飞行器有四个提供推力的发动机，且重心在的推力点的中央以增强稳定性。手动操作每个发动机的推力繁琐而困难，为了简化操作，一般用俯仰/偏航/翻滚控件
-In this section, provide brief details on the background information of the domain from which the project is proposed. Historical information relevant to the project should be included. It should be clear how or why a problem in the domain can or should be solved. Related academic research should be appropriately cited in this section, including why that research is relevant. Additionally, a discussion of your personal motivation for investigating a particular problem in the domain is encouraged but not required.
+从表演到搜救，从电影拍摄到快件投递，四轴无人飞行器正日益广泛应用于各种专业领域。
+大多数四轴飞行器有四个提供推力的发动机，且重心布置在发动机的中央以增强稳定性。通过改变四个发动机的推力大小，飞行器可以在前后左右上下六个方向上灵活机动。
+然而手动调节每个发动机的推力繁琐而困难，为了简化操作，一般使用飞行控件来实现俯仰，偏航和起降操作。
+飞控设计中最经典的
 
 ### Problem Statement
 _(approx. 1 paragraph)_
